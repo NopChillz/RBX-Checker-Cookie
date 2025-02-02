@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=cookie.ico --name=Checker-Cookie.exe main.py
